@@ -65,3 +65,6 @@ open_to: Freelance projects, remote collaboration
 [![Email](https://img.shields.io/badge/Email-4a4a4a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4a4a4a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4a4a4a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio.com)
+
+<!--Pokemon Sprite-->
+![image](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png)

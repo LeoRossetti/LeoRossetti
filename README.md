@@ -2,17 +2,12 @@
 <img src="YOUR_BANNER_URL_HERE" width="100%" alt="" />
 
 <h1 align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A89984&vCenter=true&width=600&lines=Hi%2C+I'm+Leo;Full-stack+developer;Building+with+React+Native+%2B+Next.js;Currently+shipping+DealFuel" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A89984&vCenter=true&width=600&lines=Hi%2C+I'm+Leo;Full-stack+developer;Building+with+React+Native+%2B+Next.js" alt="Typing SVG" />
 </h1>
-
-**Full-stack developer building React Native + Next.js apps.**
-Currently shipping [DealFuel](https://dealfuel.com), a B2B sales talent marketplace.
 
 📍 Based in Brazil · 🎓 Computer Engineering @ UNASP-EC · 💼 Available for freelance
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4a4a4a&height=60&section=header&reversal=true&animation=fadeIn" width="100%" />
+---
 
 ## About
 
@@ -20,11 +15,10 @@ Currently shipping [DealFuel](https://dealfuel.com), a B2B sales talent marketpl
 name: Leonardo Rossetti Francatto
 role: Full-stack Developer
 stack: [React Native, Next.js, TypeScript, Convex]
-current_focus: Shipping DealFuel to the App Store
 open_to: Freelance projects, remote collaboration
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4a4a4a&height=60&section=header&reversal=true&animation=fadeIn" width="100%" />
+---
 
 ## Tech Stack
 
@@ -39,13 +33,22 @@ open_to: Freelance projects, remote collaboration
 ![Node.js](https://img.shields.io/badge/Node.js-4a4a4a?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-4a4a4a?style=for-the-badge&logo=git&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4a4a4a&height=60&section=header&reversal=true&animation=fadeIn" width="100%" />
+---
 
 ## Most Used Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoRossetti&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&card_width=400" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4a4a4a&height=60&section=header&reversal=true&animation=fadeIn" width="100%" />
+---
+
+## Trainer Card
+
+<img src="https://profile-card-ten-green.vercel.app/api/card?username=LeoRossetti&type=dark" alt="Pokemon profile card" />
+
+<!--START_SECTION:poke-readme-->
+<!--END_SECTION:poke-readme-->
+
+---
 
 ## Contribution Graph
 
@@ -55,7 +58,7 @@ open_to: Freelance projects, remote collaboration
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LeoRossetti/LeoRossetti/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4a4a4a&height=60&section=header&reversal=true&animation=fadeIn" width="100%" />
+---
 
 ## Let's Connect
 

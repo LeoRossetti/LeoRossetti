@@ -12,6 +12,8 @@ jobs:
   add-poke-sprite:
     name: Add Pokemon Sprite to repo README
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: ibrahiem96/poke-readme-action@main
         with:

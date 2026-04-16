@@ -41,15 +41,6 @@ open_to: Freelance projects, remote collaboration
 
 ---
 
-## Trainer Card
-
-<img src="https://profile-card-ten-green.vercel.app/api/card?username=LeoRossetti&type=dark" alt="Pokemon profile card" />
-
-<!--START_SECTION:poke-readme-->
-<!--END_SECTION:poke-readme-->
-
----
-
 ## Contribution Graph
 
 <picture>
@@ -65,3 +56,8 @@ open_to: Freelance projects, remote collaboration
 [![Email](https://img.shields.io/badge/Email-4a4a4a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4a4a4a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4a4a4a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio.com)
+
+<br />
+
+<!-- Animated Gen 5 Pokemon sprite. Swap the number (487 = Giratina-Altered) for any Pokedex ID. -->
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/487.gif" alt="" />

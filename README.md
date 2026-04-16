@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/487-origin.gif" alt="" width="200"/>
-  <h3 align="center">Hi there, I'm Leo 👋</h3>
-</p>
+<!-- Replace with your foggy forest banner (image or GIF) from Unsplash/Pexels/Giphy -->
+<img src="YOUR_BANNER_URL_HERE" width="100%" alt="" />
+
+<h1 align="center">Hi there, I'm Leo 👋</h1>
 
 ## 🌫️ About me
 
@@ -32,7 +32,7 @@ I'm currently available for **freelance work** and open to remote collaboration.
 
 ## 📊 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoRossetti&layout=compact&theme=gruvbox&hide_border=true&card_width=420" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoRossetti&layout=compact&theme=transparent&hide_border=true&card_width=420" />
 
 ## 🐍 Contribution Graph
 
@@ -49,3 +49,9 @@ I'm always open to discussing freelance projects, collaboration, or just talking
 - 💼 [LinkedIn](https://linkedin.com/in/your-handle)
 - 🌐 [Portfolio](https://your-portfolio.com)
 - 📧 [Email](mailto:your-email@example.com)
+
+<br />
+
+<div align="right">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/487-origin.gif" alt="" width="80" />
+</div>

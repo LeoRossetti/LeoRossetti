@@ -59,5 +59,7 @@ open_to: Freelance projects, remote collaboration
 
 <br />
 
-<!-- Animated Gen 5 Pokemon sprite. Swap the number (487 = Giratina-Altered) for any Pokedex ID. -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/487.gif" alt="" />
+<!-- Animated party menu sprite. Grab the GIF URL from: -->
+<!-- https://archives.bulbagarden.net/wiki/Category:Animated_menu_sprites -->
+<!-- or https://pokemondb.net/sprites/giratina (Party menu section) -->
+<img src="YOUR_POKEMON_GIF_URL" alt="" />

@@ -1,69 +1,51 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2a3a2a,100:1a2520&height=140&section=header&text=%20%3E%20LEO_ROSSETTI&fontSize=40&fontColor=a89984&fontAlignY=50&desc=full-stack%20developer%20%7C%20react%20native%20%2B%20next.js&descAlignY=75&descSize=14&animation=fadeIn" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/487-origin.gif" alt="" width="200"/>
+  <h3 align="center">Hi there, I'm Leo 👋</h3>
+</p>
 
-<!-- Replace YOUR_BANNER_GIF_URL with a pixel art foggy forest GIF from Giphy/Tenor/itch.io -->
-<img src="YOUR_BANNER_GIF_URL" width="100%" alt="" />
+## 🌫️ About me
 
-<br />
+[![LinkedIn](https://img.shields.io/badge/follow-me-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+[![Portfolio](https://img.shields.io/badge/visit-site-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/contact-me-blue?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=28&duration=3000&pause=1000&color=A89984&vCenter=true&width=600&lines=%3E+whoami;%3E+based+in+brazil;%3E+available+for+freelance;%3E+initializing..." alt="" />
+I'm Leonardo Rossetti Francatto, a **full-stack developer** based in Brazil, currently studying Computer Engineering at UNASP-EC and building cross-platform products with React Native and Next.js.
 
----
+My focus is on shipping polished, well-architected apps end-to-end — from database modeling and auth flows to mobile UI and App Store submission. I care about clean developer experience, thoughtful design, and projects that actually ship.
 
-### `> ./about`
+I'm currently available for **freelance work** and open to remote collaboration.
 
-```yaml
-name:     leonardo rossetti francatto
-role:     full-stack developer
-edu:      computer engineering @ unasp-ec
-stack:    react-native / next.js / typescript / convex
-status:   [ ONLINE ]
-```
+## 🛠️ Tech Stack
 
----
+<span display="inline">
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img alt="Expo" src="https://img.shields.io/badge/expo%20-%23000020.svg?&style=for-the-badge&logo=expo&logoColor=white"/>
+  <img alt="Tailwind" src="https://img.shields.io/badge/tailwind%20-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img alt="Convex" src="https://img.shields.io/badge/convex%20-%23EE342F.svg?&style=for-the-badge&logo=convex&logoColor=white"/>
+  <img alt="Clerk" src="https://img.shields.io/badge/clerk%20-%236C47FF.svg?&style=for-the-badge&logo=clerk&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</span>
 
-### `> ./tech_stack`
+## 📊 Most Used Languages
 
-![TypeScript](https://img.shields.io/badge/typescript-2a3a2a?style=flat-square&logo=typescript&logoColor=a89984)
-![React](https://img.shields.io/badge/react-2a3a2a?style=flat-square&logo=react&logoColor=a89984)
-![React Native](https://img.shields.io/badge/react_native-2a3a2a?style=flat-square&logo=react&logoColor=a89984)
-![Next.js](https://img.shields.io/badge/next.js-2a3a2a?style=flat-square&logo=nextdotjs&logoColor=a89984)
-![Expo](https://img.shields.io/badge/expo-2a3a2a?style=flat-square&logo=expo&logoColor=a89984)
-![Tailwind](https://img.shields.io/badge/tailwind-2a3a2a?style=flat-square&logo=tailwindcss&logoColor=a89984)
-![Convex](https://img.shields.io/badge/convex-2a3a2a?style=flat-square&logo=convex&logoColor=a89984)
-![Clerk](https://img.shields.io/badge/clerk-2a3a2a?style=flat-square&logo=clerk&logoColor=a89984)
-![Node.js](https://img.shields.io/badge/node.js-2a3a2a?style=flat-square&logo=nodedotjs&logoColor=a89984)
-![Git](https://img.shields.io/badge/git-2a3a2a?style=flat-square&logo=git&logoColor=a89984)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoRossetti&layout=compact&theme=gruvbox&hide_border=true&card_width=420" />
 
----
-
-### `> ./languages.log`
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoRossetti&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&card_width=420&text_color=a89984&title_color=a89984" />
-
----
-
-### `> ./contribution_graph`
+## 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoRossetti/LeoRossetti/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoRossetti/LeoRossetti/output/github-contribution-grid-snake.svg" />
-  <img alt="" src="https://raw.githubusercontent.com/LeoRossetti/LeoRossetti/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LeoRossetti/LeoRossetti/output/github-contribution-grid-snake.svg" />
 </picture>
 
----
+## 📫 Let's Connect
 
-### `> ./contact`
+I'm always open to discussing freelance projects, collaboration, or just talking shop about mobile development and full-stack architecture.
 
-[![Email](https://img.shields.io/badge/email-2a3a2a?style=flat-square&logo=gmail&logoColor=a89984)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-2a3a2a?style=flat-square&logo=linkedin&logoColor=a89984)](https://linkedin.com/in/your-handle)
-[![Portfolio](https://img.shields.io/badge/portfolio-2a3a2a?style=flat-square&logo=googlechrome&logoColor=a89984)](https://your-portfolio.com)
-
-<br />
-
-<div align="right">
-  <sub><code>[ session active ● ]</code></sub>
-  <br />
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/487-origin.gif" alt="" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a2520,100:2a3a2a&height=80&section=footer&animation=fadeIn" width="100%" />
+- 💼 [LinkedIn](https://linkedin.com/in/your-handle)
+- 🌐 [Portfolio](https://your-portfolio.com)
+- 📧 [Email](mailto:your-email@example.com)

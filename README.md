@@ -1,16 +1,10 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1kb3FkeXdjbmdidHd4MHRzbHdmbTRobmtnYzZ3NjBzMmV4cnNzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3diu2dFNpV8AnozJ3V/giphy.gif" width="100%" alt="" />
+<h1 align="center">Hi there, I'm Leo </h1>
 
-<h1 align="center">Hi there, I'm Leo 👋</h1>
-
-## 🌫️ About me
-
-[![LinkedIn](https://img.shields.io/badge/follow-me-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Portfolio](https://img.shields.io/badge/visit-site-blue?style=flat&logo=googlechrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/contact-me-blue?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+## 💭 About me
 
 I'm Leonardo Rossetti Francatto, a **full-stack developer** based in Brazil, currently studying Computer Engineering at UNASP-EC and building cross-platform products with React Native and Next.js.
 
-My focus is on shipping polished, well-architected apps end-to-end — from database modeling and auth flows to mobile UI and App Store submission. I care about clean developer experience, thoughtful design, and projects that actually ship.
+My focus is on shipping polished, well-architected apps end-to-end — from database modeling and auth flows to the UI layer, whether that's web or mobile. I care about clean developer experience, thoughtful design, and projects that actually ship.
 
 I'm currently available for **freelance work** and open to remote collaboration.
 
@@ -27,6 +21,8 @@ I'm currently available for **freelance work** and open to remote collaboration.
   <img alt="Clerk" src="https://img.shields.io/badge/clerk%20-%236C47FF.svg?&style=for-the-badge&logo=clerk&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
 </span>
 
 ## 📊 Most Used Languages
@@ -43,11 +39,11 @@ I'm currently available for **freelance work** and open to remote collaboration.
 
 ## 📫 Let's Connect
 
-I'm always open to discussing freelance projects, collaboration, or just talking shop about mobile development and full-stack architecture.
+I'm always open to discussing projects and collaborations.
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-handle)
-- 🌐 [Portfolio](https://your-portfolio.com)
-- 📧 [Email](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leorossetti)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail%20-%236D4AFF.svg?&style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Rossetti38679@protonmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail%20-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.francatto@gmail.com)
 
 <br />
 

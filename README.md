@@ -1,4 +1,6 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1kb3FkeXdjbmdidHd4MHRzbHdmbTRobmtnYzZ3NjBzMmV4cnNzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3diu2dFNpV8AnozJ3V/giphy.gif" width="100%" alt="" />
+<p align="center">
+  <img src="./snake.gif" alt="" width="220" />
+</p>
 
 <h1 align="center">Hi there, I'm Leo 👋</h1>
 

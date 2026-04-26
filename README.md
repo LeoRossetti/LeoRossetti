@@ -41,7 +41,7 @@ I'm currently available for **freelance work** and open to remote collaboration.
 
 I'm always open to discussing projects and collaborations.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://leorossetti.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio%20-%234F46E5.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://leorossetti.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leorossetti)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail%20-%236D4AFF.svg?&style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Rossetti38679@protonmail.com)
 [![Gmail](https://img.shields.io/badge/Gmail%20-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.francatto@gmail.com)
